@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Home Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+            margin-top: 150px;
+        }
+        
+        h1 {
+            font-size: 36px;
+            color: #333;
+        }
+        
+        p {
+            font-size: 18px;
+            color: #666;
+        }
+        
+        .links {
+            margin-top: 20px;
+        }
+        
+        .links a {
+            display: inline-block;
+            margin-right: 10px;
+            color: #333;
+            text-decoration: none;
+        }
+        
+        .links a:hover {
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <h1>Waqas Khan</h1>
+    <p>Welcome to my personal website!</p>
+    <div class="links">
+        <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn</a>
+        <a href="https://www.example.com">Website 1</a>
+        <a href="https://www.example.com">Website 2</a>
+    </div>
+</body>
+</html>
